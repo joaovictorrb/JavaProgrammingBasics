@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5647a19-0b52-4911-b49e-33a5459ee368" name="Changes" comment="Java Basics">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaMasterClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polo.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/classes_and_objects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/classes_and_objects/Objects/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/ArrayListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/Explanation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/LinkedListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/MapClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/QueueClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/SetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/collections/VectorClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/constructors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/constructors/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/flow_control/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/FirstLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/HumanInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/Musician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/inheritance/SecondLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/java_variables/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/java_variables/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/polymorphism/DomesticAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/polymorphism/Leopard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/polymorphism/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/serialization/DeSerialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/serialization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/serialization/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/static_pkg/FlightTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/static_pkg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/string/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/threads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/threads/MyThreadExtension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/threads/MyThreadImplements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course/threads/Synchronization.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HY9G3sarBmNfSRYmTVkAgtOzSd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="course.inheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeSerialization">
+    <configuration name="DeSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.serialization.DeSerialization" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.threads.Main" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.collections.QueueClass" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.threads.Synchronization" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="course.serialization.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.serialization.Main" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeSerialization" />
+        <item itemvalue="Application.course.serialization.Main" />
+        <item itemvalue="Application.Synchronization" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.QueueClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5647a19-0b52-4911-b49e-33a5459ee368" name="Changes" comment="" />
+      <created>1668451051952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668451051952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basics" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaMasterClass$Synchronization.ic" NAME="Synchronization Coverage Results" MODIFIED="1670025868162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>course.threads.*</FILTER>
+    </SUITE>
+  </component>
+</project>
